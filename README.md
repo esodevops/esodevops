@@ -1,93 +1,51 @@
-# 👋 Hi, I'm [SULAIMON EKUNDAYO]
+# 👋 Hi, I'm Sulaimon Ekundayo
 
-💻 Junior Software Developer | 🧪 QA Engineer | ⚙️ DevOps | 📊 Data Engineer
+💻 **Software Developer | QA Engineer | DevOps | Data Engineering Enthusiast**
 
-I’m a multidisciplinary tech professional with experience across **software development, testing, DevOps, and data engineering**. I enjoy building reliable systems, improving software quality, and working with data-driven solutions.
+I build reliable software, improve quality through testing, and support scalable systems with cloud and automation practices. My work spans application development, test engineering, DevOps, and data-driven solutions.
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 Currently working on full-stack and cloud-based projects
-* 🌱 Learning **Data Engineering & Infrastructure as Code (Terraform, AWS)**
-* 🧪 Experienced in **manual & automated testing (Robot Framework, Python)**
-* ⚡ Passionate about building scalable and maintainable systems
-* 🌍 Based in Finland
+* 🛠️ Building full-stack and cloud-based projects
+* 📚 Growing my expertise in Data Engineering and Infrastructure as Code
+* 🧪 Experienced in manual and automated testing with Robot Framework and Python
+* ⚙️ Interested in scalable, maintainable, and production-ready systems
+* 🇫🇮 Based in Finland
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### 👨‍💻 Development
+**💡 Development:**
+JavaScript, React, Vite, Node.js, Express, Python
 
-* JavaScript (React, Vite)
-* Node.js, Express
-* Python
+**🧪 Testing:**
+Manual Testing, Robot Framework, Python Test Automation
 
-### 🧪 Testing
+**☁️ DevOps & Cloud:**
+Docker, GitHub Actions, Linux, AWS
 
-* Manual Testing
-* Robot Framework
-* Test Automation (Python)
-
-### ⚙️ DevOps & Cloud
-
-* Docker
-* AWS (EC2, RDS, S3, VPC)
-* CI/CD (GitHub Actions)
-* Linux
-
-### 🗄️ Data Engineering
-
-* PostgreSQL
-* SQL
-* Data Pipelines (Learning)
-* ETL Concepts
+**📊 Data:**
+SQL, PostgreSQL, ETL, Data Pipelines
 
 ---
 
-## 📂 Featured Projects
+## 🌟 Featured Work
 
-### 🌐 Full-Stack Application
-
-* Built using **React + Strapi**
-* Implemented reusable components and API integration
-* Deployed using modern cloud platforms
-
-### 🧪 Test Automation Framework
-
-* Designed automation using **Robot Framework + Python**
-* Reduced manual testing effort significantly
-
-### ☁️ AWS Infrastructure Project
-
-* Designed and deployed:
-
-  * VPC, EC2, RDS, Load Balancer
-* Focus on **scalability, availability, and security**
+* 🌐 **Full-Stack Applications:** Built modern web applications with reusable components and API integrations
+* 🤖 **Test Automation:** Developed automation frameworks that reduced repetitive manual testing
+* ☁️ **Cloud Infrastructure:** Worked on AWS-based environments with a focus on scalability, availability, and security
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Connect
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username\&layout=compact)
-
----
-
-## 🤝 Let's Connect
-
-* 💼 LinkedIn: [Your LinkedIn URL]
-* 🌐 Portfolio: [Your Portfolio URL]
-* 📧 Email: [Your Email]
+* 🔗 LinkedIn: [https://www.linkedin.com/in/sulaimon-ekundayo/]
+* 🌍 Portfolio: [https://portfolio.sulaimonekundayo.com/]
+* 📧 Email: [sulaimon.ekundayo1@gmail.com]
 
 ---
 
-## ⚡ Fun Fact
-
-I enjoy exploring **agriculture systems and technology**, combining my background with modern tech solutions 🌱
-
----
-
-⭐ *Always open to collaboration, internships, and learning opportunities!*
+✨ Always open to collaboration, internships, and growth opportunities.
