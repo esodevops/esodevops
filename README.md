@@ -42,9 +42,9 @@ SQL, PostgreSQL, ETL, Data Pipelines
 
 ## 🤝 Connect
 
-* 🔗 LinkedIn: [https://www.linkedin.com/in/sulaimon-ekundayo/]
-* 🌍 Portfolio: [https://portfolio.sulaimonekundayo.com/]
-* 📧 Email: [sulaimon.ekundayo1@gmail.com]
+* 🔗 LinkedIn: https://www.linkedin.com/in/sulaimon-ekundayo
+* 🌍 Portfolio: https://portfolio.sulaimonekundayo.com
+* 📧 Email: sulaimon.ekundayo1@gmail.com
 
 ---
 
