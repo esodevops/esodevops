@@ -28,7 +28,7 @@ Manual Testing, Robot Framework, Python Test Automation
 Docker, GitHub Actions, Linux, AWS
 
 **📊 Data:**
-SQL, PostgreSQL, ETL, Data Pipelines
+SQL, PostgreSQL, ETL, PySpark, Data Pipelines, Airflow, Databricks
 
 ---
 
